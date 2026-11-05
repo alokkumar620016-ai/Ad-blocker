@@ -1,0 +1,6 @@
+{
+  "name": "JioShield STB - AdBlock APK & Cable Sideload Suite",
+  "description": "Complete ad blocking software and APK packager for Jio Set-Top Box. Download verified TV ad-blocking APKs, push directly via USB cable with WebADB, and block ads across all streaming apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
